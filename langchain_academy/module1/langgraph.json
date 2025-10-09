@@ -1,8 +1,0 @@
-{
-  "dependencies": ["."],
-  "graphs": {
-    "agent": "./practical4_memory.ipynb:graph"
-  },
-  "env": ".env",
-  "image_distro": "wolfi"
-}
